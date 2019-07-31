@@ -1,0 +1,1 @@
+sh diskbench.sh -d /dev/vda,/dev/vdb -p testcases-mapr6.txt
